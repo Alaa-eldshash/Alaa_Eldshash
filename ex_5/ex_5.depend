@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720058370 source:c:\users\alaa\desktop\cc\ex_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
